@@ -1,6 +1,6 @@
 # Setup
 
-* Clone project `git clone`
+* Clone project `git clone git@github.com:bradenhs/getDerivedStateFromProps-mobx.git`
 * Install dependencies `yarn`
 * Run `yarn start`
 * Open browser `http://localhost:1234`
