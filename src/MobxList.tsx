@@ -13,7 +13,6 @@ interface Props {
 @autobind
 export class MobxList extends React.Component<Props> {
   @observable currentPage = 0;
-  maxRowsPerPage = 30;
 
   render() {
     const totalPages = getTotalPages(this.props.rows.length);
